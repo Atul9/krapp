@@ -14,3 +14,5 @@ gem 'sqlite3'
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
 gem 'listen'
+
+gem 'sidekiq'
